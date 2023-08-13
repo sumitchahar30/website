@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=Roboto:wght@400;500;700&display=swap');
 
 :root{
-    --primcolor: #84FF14;
+    --primcolor: #59BB00;
 }
 
 *, ::after, ::before{
@@ -136,10 +136,10 @@ header{
     width: 55vw;
 }
 .hero-container h1{
-    color: #84FF14;
+    color: #59BB00;
 }
 .hero-container p{
-    color: #84FF14;
+    color: #59BB00;
 }
 .hero-right{
     width: 45vw;
